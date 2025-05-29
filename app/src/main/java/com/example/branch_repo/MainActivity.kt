@@ -21,7 +21,7 @@ class MainActivity : ComponentActivity() {
             BranchRepoTheme {
                 Scaffold(modifier = Modifier.fillMaxSize()) { innerPadding ->
                     Greeting(
-                        name = "Android",
+                        name = "Bee",
                         modifier = Modifier.padding(innerPadding)
                     )
                 }
